@@ -1,7 +1,7 @@
 #Isakson-Lab_Wolpe_ScienceSignaling_2023
 ---
 title: "Wolpe_ScienceSignaling_2023"
-author: "Skylar Loeb"
+author: "Skylar Loeb, Zuzanna Juśkiewicz"
 date: "2023-06-15"
 output: html_document
 ---
