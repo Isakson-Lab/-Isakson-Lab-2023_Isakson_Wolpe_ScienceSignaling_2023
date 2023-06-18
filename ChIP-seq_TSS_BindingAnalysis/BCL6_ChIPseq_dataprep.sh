@@ -1,5 +1,5 @@
+mkdir data
 cd data
-
 #Download all needed Bcl6 ChIP-seq data sets
 fasterq-dump GSM1857225
 fasterq-dump GSM1857226
