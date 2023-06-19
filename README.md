@@ -4,7 +4,7 @@ This repository contains the code used to conduct in silico analysis for the pap
 
 ## Bcl6_Upstream_FIMO_MotifAnalysis
     
-In this analysis, potential Bcl6 binding sites are determined in the 1kb region upstream of several genes of interest. In order to quantitatively measure potential Bcl6 binding sites in these genomic regions, a FIMO search in the 1kb sequence upstream of each gene of interest is conducted. The number of hits which meet the threshold for each gene are then counted for later plotting.
+In this analysis, potential Bcl6 binding sites are determined in the 1kb region upstream of several genes of interest. In order to quantitatively measure potential Bcl6 binding sites in these genomic regions, a FIMO search in the 1kb sequence upstream of each gene of interest is conducted using the Bcl6 binding motif. The number of hits which meet the threshold for each gene are then counted for later plotting.
 
 ## ChIP-seq_TSS_BindingAnalysis    
     
