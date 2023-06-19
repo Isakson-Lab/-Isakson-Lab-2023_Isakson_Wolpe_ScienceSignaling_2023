@@ -54,7 +54,3 @@ do
    seqOutBias mm39.fa $bam --no-scale --bw=${name}_unscaled.bigWig --read-size=60
 
 done
-
-##TSS Gene locations were found by going to:
-#https://genome.ucsc.edu/cgi-bin/hgSearch?db=mm39&search=
-#and entering an individual gene, then making a bed file based on the 1kb location upstream from the gene
