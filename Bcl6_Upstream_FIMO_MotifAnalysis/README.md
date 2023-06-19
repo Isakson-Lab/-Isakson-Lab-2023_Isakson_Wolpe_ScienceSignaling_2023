@@ -4,4 +4,4 @@ This analysis of Bcl6 upstream binding motifs can be reproduced by downloading t
 
 ![alt text](https://github.com/Isakson-Lab/Panx3-and-Bcl6-in-endothelium/blob/main/Bcl6_Upstream_FIMO_MotifAnalysis/Motif_Counts.png?raw=true)
 
-This data is plotted in Figure 6 E in the manuscript.
+This data is plotted in Figure 6E in the manuscript.
