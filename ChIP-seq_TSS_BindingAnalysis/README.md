@@ -4,4 +4,4 @@ To reproduce this analysis and plot Bcl6 ChIP-seq signal in the 1kb upstream of 
     
 Next, run the file titled `BCL6_ChIP_Plots.R`, this will plot fresh versions the figures included in the `Output_plots` folder. The folder titled `Gene_beds` and the script titled `composite_functions` are required to be in the working directory for plotting. 
 
-These output plots correspond to Figure 6 I,J,K and Figure S4 B,C in the manuscript.
+These output plots correspond to Figure 6I-K and figure S4B-C in the manuscript.
