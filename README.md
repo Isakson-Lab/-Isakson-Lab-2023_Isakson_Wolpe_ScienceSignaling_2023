@@ -1,4 +1,5 @@
-# *in silico* analysis conducted in: Non-canonical role for pannexin stabilizing the transcription factor Bcl6 to regulate oxidative stress    
+# *in silico* analysis conducted in: Non-canonical role for pannexin stabilizing the transcription factor Bcl6 to regulate oxidative stress  
+[![DOI](https://zenodo.org/badge/654539835.svg)](https://zenodo.org/badge/latestdoi/654539835)
 This repository contains the code used to conduct in silico analysis for the paper "Non-canonical role for pannexin stabilizing the transcription factor Bcl6 to regulate oxidative stress" by Wolpe et al. Each folder contains scripts, data (when possible), and output for the analysis indicated. Additionally, figure number and panel letter are indicated in the README file for each folder. A brief summary of each analysis conducted:
 
 ## Bcl6_Upstream_FIMO_MotifAnalysis
