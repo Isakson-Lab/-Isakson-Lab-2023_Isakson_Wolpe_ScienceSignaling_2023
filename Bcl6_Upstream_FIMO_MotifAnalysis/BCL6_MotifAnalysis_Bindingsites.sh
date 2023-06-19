@@ -22,10 +22,11 @@ for fa in seqs/*.fasta
 do
     name=$(echo $fa | awk -F".fasta" '{print $1}' | awk -F"seqs/" '{print $2}')
     echo $name
-    fimo --thresh 0.0004 --text Bcl6_mus.meme 'seqs/'$name'.fasta' > ${name}_fimo.txt
+    fimo --thresh 0.0004 --text Bcl6_mus.meme 'seqs/'$name'.fasta' > 'seqs/'${name}_fimo.txt
 done
 
 #Remove headers from FIMO files for counting number of motifs
+cd seqs
 sed -i '1d' *_fimo.txt
 
 #Count number of Bcl6 motifs in each FIMO file
