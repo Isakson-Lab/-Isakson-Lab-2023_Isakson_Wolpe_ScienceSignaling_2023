@@ -8,7 +8,7 @@ In this analysis, potential Bcl6 binding sites are determined in the 1kb region 
 
 ## ChIP-seq_TSS_BindingAnalysis    
     
-This analysis determines average Bcl6 binding in the region 1kb upstream of a transcription start site for a given gene. To conduct this analysis, reads from 3 separate Bcl6 ChIP-seq experiments were retrieved from the Sequence Read Archive and aligned to the mm39 mouse genome. Reads were then converted from BAM to bigWig format and signal at sites of interest was combined, then plotted.
+Analysis in this folder determines average Bcl6 binding in the region 1kb upstream of a transcription start site for a given gene. To conduct this analysis, reads from 3 separate Bcl6 ChIP-seq experiments were retrieved from the Sequence Read Archive and aligned to the mm39 mouse genome. Reads were then converted from BAM to bigWig format and signal at sites of interest was combined, then plotted.
 
 ## SingleCell_Human_Adipose_Endothelium
     
